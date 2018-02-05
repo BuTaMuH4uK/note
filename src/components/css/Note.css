@@ -1,0 +1,31 @@
+.note {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 10px 5%;
+}
+
+.hr {
+    margin: 10px 0px;
+    height: 1px;
+    background-color: lightgray;
+}
+
+.label-field {
+    width: 80%;
+    padding: 5px;
+    margin: 10px 0px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: thin solid lightgray;
+    color: gray;
+}
+
+.note-field {
+    padding: 5px;
+    margin: 10px 0px;
+    line-height: 18px;
+    border-radius: 5px;
+    border: thin solid lightgray;
+    color: gray;
+}
